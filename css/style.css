@@ -1,0 +1,111 @@
+* {
+
+    border: 1px solid red;
+
+}
+
+body {
+
+    margin: 0;
+
+}
+
+header {
+
+    height:180px;
+
+    margin: auto;
+
+    background-color: lightgrey;
+
+}
+
+header img {
+
+    margin-left: 50px;
+
+    height: 100px;
+
+    width: 100px;
+
+    float: left;
+
+    background-color: pink;
+
+
+
+}
+
+header nav {
+
+    margin-right: 50px;
+
+    float: right;
+
+    width: 200px;
+
+    height: 100px;
+
+    text-align: center;
+
+}
+
+header nav, header img {
+
+    padding-top: 40px;
+
+    padding-bottom: 40px;
+
+}
+
+
+
+.first {
+
+    background-color: cadetblue;
+
+}
+
+.second {
+
+    background-color: blueviolet;
+
+}
+
+
+
+footer {
+
+    clear: both;
+
+}
+
+a:hover {
+
+    text-decoration: none;
+
+}
+
+a:visited {
+
+    color: purple;
+
+}
+
+header nav ul li {
+
+    list-style: none;
+
+    float: left;
+
+    margin-right: 20px;
+
+    color: black;
+
+}
+
+ header nav ul li a {
+
+     text-decoration: none;
+
+ }
